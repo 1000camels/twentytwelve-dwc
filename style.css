@@ -1,0 +1,11 @@
+/*
+Theme Name:     Twenty Twelve - customized by Darcy
+Theme URI:      http://1000camels.com/category/wordpress-themes/
+Description:    This includes some basic changes made to the Twenty Twelve theme, specifically no automatic display of featured image and list pages use excerpts when possible
+Author:         Darcy W. Christ
+Author URI:     http://1000camels.com/about/
+Template:       twentytwelve                            
+Version:        0.1.0
+*/
+
+@import url("../twentytwelve/style.css");
